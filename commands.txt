@@ -1,0 +1,3 @@
+-Move all the files inside Website to html
+
+C:\Users\Ali\Documents\Other\pscp.exe -r C:\Users\Ali\Documents\Website\ pi@192.168.0.17:/var/www/html
